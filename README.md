@@ -3,6 +3,9 @@
 - Api for pushnoti app. 
 - Uses nestjs with drizzle orm.
 
+## App Repo
+[App Repo](https://github.com/breathingcyborg/pushnoti_app)
+
 ## Developement guide
 
 ### Copy .env-example
