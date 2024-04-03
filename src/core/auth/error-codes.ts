@@ -1,0 +1,1 @@
+export const FIREBASE_USER_NOT_FOUND = 'auth/firebase-user-not-found'

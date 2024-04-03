@@ -1,0 +1,1 @@
+export const TOKEN_VALIDITY_DAYS = 270;

@@ -1,0 +1,1 @@
+const NOTIMAIL_TAKEN = 'notimail-taken';
